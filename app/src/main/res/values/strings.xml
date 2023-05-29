@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ChatApplication</string>
+    <string name="api_key">m2gsf7mjxb4d</string>
+    <string name="jwt_token">
+        eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiZGludWthX2VrYW5heWFrZSJ9.15H8-LSRdE4QU5eA0dbf17MUUe9Uqbd50LueMxsjWXs
+    </string>
+    <!-- dinuka_ekanayake-->
+</resources>
